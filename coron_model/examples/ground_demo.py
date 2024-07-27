@@ -3,8 +3,6 @@ import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 from matplotlib import gridspec
-from matplotlib import rc
-import pdb
 import sys
 mpl.rc('font', family='Times New Roman')
 mpl.rcParams['font.size'] = 25.0
